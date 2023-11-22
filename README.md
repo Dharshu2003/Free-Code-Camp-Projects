@@ -4,12 +4,12 @@ Data Analysis with Python
 
 This respository captures my personal solutions to the Data Analysis with Python Certification projects.
 
-Mean-Variance-Standard Deviation Calculator
+1.Mean-Variance-Standard Deviation Calculator
 
-Demographic Data Analyzer
+2.Demographic Data Analyzer
 
-Medical Data Visualizer
+3.Medical Data Visualizer
 
-Page View Time Series Visualizer
+4.Page View Time Series Visualizer
 
-Sea Level Predictor
+5.Sea Level Predictor
